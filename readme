@@ -1,0 +1,22 @@
+Blog Project reference link:
+https://www.youtube.com/watch?v=Cz-2QzkuCHo&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=6
+
+
+cloud.mongodb.com
+sign in with google
+cluster0/ browse data / collections post and user
+
+mongo connection url , jwt secret in .env
+
+home url
+localhost:5000
+
+admin url
+localhost:5000/admin
+
+admin name: admin
+password: password
+
+/////
+let a = `hello ${name}`    // NOTE!!!!!!!! ` not ' or "
+Note that it is a backtick, not a quote.
