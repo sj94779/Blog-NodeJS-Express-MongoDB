@@ -1,3 +1,13 @@
+command to run project:
+npm run dev
+
+check : localhost:5000
+or localhost:5000/admin
+admin name: admin
+password: password
+
+
+
 Blog Project reference link:
 https://www.youtube.com/watch?v=Cz-2QzkuCHo&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=6
 
